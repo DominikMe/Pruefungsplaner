@@ -1,0 +1,545 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Prüfungsplaner</Author>
+  <LastAuthor>Dome</LastAuthor>
+  <Created>2011-11-25T16:13:15Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1" ss:Underline="Single"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="h:mm;@"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="120" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:Width="39.75"/>
+   <Column ss:Width="9"/>
+   <Column ss:Width="39.75"/>
+   <Column ss:Width="9.75"/>
+   <Column ss:Width="200.25"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Zweite Evangelisch-theologische Dienstprüfung 2010</Data></Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Montag, 3. Mai 2010</Data></Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Seelsorge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elisabeth von Thüringen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Babara Hahn-Jooß</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Michael Krimmer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Katja Pfitzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tobias Gentsch</Data></Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kristin Merle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sarah Reyer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:45:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:05:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Dirk Kubischek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:10:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:30:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Regina Lück</Data></Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T18:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Johannes Meisinger</Data></Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Religionspädagogik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Blumhardt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefan Nitschke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefanie Siegel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Samuel Hartmann</Data></Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Liturgik/Hymnologie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Brenz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Theresa Haenle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Cornelia Neumaier [Klavier]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Heiko van der Lip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Markus Krimmer</Data></Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dienstag, 4. Mai 2010</Data></Cell>
+   </Row>
+   <Row ss:Index="36">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Liturgik/Hymnologie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Brenz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Babara Hahn-Jooß</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Michael Krimmer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Katja Pfitzer [Altblockflöte]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tobias Gentsch</Data></Cell>
+   </Row>
+   <Row ss:Index="43">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:25:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kristin Merle [Klavier]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:30:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:55:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sarah Reyer [Klavier]</Data></Cell>
+   </Row>
+   <Row ss:Index="46">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Diakonie/Gesellschaftsdiakonie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elisabeth</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Dirk Kubischek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Regina Lück</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Johannes Meisinger</Data></Cell>
+   </Row>
+   <Row ss:Index="52">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Homiletik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Blumhardt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefan Nitschke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefanie Siegel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Samuel Hartmann</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Theresa Haenle</Data></Cell>
+   </Row>
+   <Row ss:Index="59">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Cornelia Neumaier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Heiko van der Lip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:45:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:05:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Markus Krimmer</Data></Cell>
+   </Row>
+   <Row ss:Index="64">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Donnerstag, 6. Mai 2010</Data></Cell>
+   </Row>
+   <Row ss:Index="66">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Religionspädagogik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Blumhardt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Babara Hahn-Jooß</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Michael Krimmer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Katja Pfitzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tobias Gentsch</Data></Cell>
+   </Row>
+   <Row ss:Index="73">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kristin Merle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sarah Reyer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:45:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:05:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Dirk Kubischek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:10:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:30:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Regina Lück</Data></Cell>
+   </Row>
+   <Row ss:Index="78">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T18:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Johannes Meisinger</Data></Cell>
+   </Row>
+   <Row ss:Index="80">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Seelsorge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elisabeth von Thüringen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefan Nitschke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefanie Siegel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T14:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Samuel Hartmann</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Theresa Haenle</Data></Cell>
+   </Row>
+   <Row ss:Index="87">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T15:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Cornelia Neumaier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Heiko van der Lip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T16:45:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T17:05:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Markus Krimmer</Data></Cell>
+   </Row>
+   <Row ss:Index="92">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Freitag, 7. Mai 2010</Data></Cell>
+   </Row>
+   <Row ss:Index="94">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Homiletik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Blumhardt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Babara Hahn-Jooß</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Michael Krimmer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Katja Pfitzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tobias Gentsch</Data></Cell>
+   </Row>
+   <Row ss:Index="101">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kristin Merle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sarah Reyer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:45:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T11:05:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Dirk Kubischek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T11:10:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T11:30:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Regina Lück</Data></Cell>
+   </Row>
+   <Row ss:Index="106">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T11:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T12:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Johannes Meisinger</Data></Cell>
+   </Row>
+   <Row ss:Index="108">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Diakonie/Gesellschaftsdiakonie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elisabeth von Thüringen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefan Nitschke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:25:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:45:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stefanie Siegel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:50:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:10:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Samuel Hartmann</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:15:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:35:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Theresa Haenle</Data></Cell>
+   </Row>
+   <Row ss:Index="115">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T09:55:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:15:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Cornelia Neumaier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:20:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T10:40:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Heiko van der Lip</Data></Cell>
+   </Row>
+   <Row ss:Index="118">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Württembergische Kirchengeschichte</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Otto Riethmüller</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">1899-12-31T08:20:00.000</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Markus Krimmer</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

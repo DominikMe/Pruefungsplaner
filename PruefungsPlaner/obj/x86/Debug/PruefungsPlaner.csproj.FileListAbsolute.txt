@@ -1,0 +1,15 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\PruefungsPlaner.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\PruefungsPlaner.pdb
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.exe.config
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.exe
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\bin\Debug\PruefungsPlaner.pdb
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\PruefungsPlaner.exe
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\PruefungsPlaner.pdb
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dome\Programmieren\Privat\C#\PruefungsPlaner\PruefungsPlaner\obj\x86\Debug\PruefungsPlaner.GUI.GUI.resources

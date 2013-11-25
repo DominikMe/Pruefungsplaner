@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExamCalcTask>
+  <Settings>
+    <TaskTitle>Zweite Evangelisch-theologische Dienstprüfung 2010</TaskTitle>
+    <TimeSlotLength>1</TimeSlotLength>
+    <StartTime>2010-05-3 7:00</StartTime>
+  </Settings>
+  <TeacherList>
+    <Teacher id="1">
+      <Name>Blumhardt</Name>
+      <AvailableTimeSpanList>        
+        <TimeSpan>
+          <StartTime>2010-05-3 14:00</StartTime>
+          <EndTime>2010-05-3 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-4 14:00</StartTime>
+          <EndTime>2010-05-4 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-6 14:00</StartTime>
+          <EndTime>2010-05-6 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-7 8:00</StartTime>
+          <EndTime>2010-05-7 12:30</EndTime>
+        </TimeSpan>
+      </AvailableTimeSpanList>
+    </Teacher>
+    <Teacher id="2">
+      <Name>Elisabeth von Thüringen</Name>
+      <AvailableTimeSpanList>
+        <TimeSpan>
+          <StartTime>2010-05-3 14:00</StartTime>
+          <EndTime>2010-05-3 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-4 14:00</StartTime>
+          <EndTime>2010-05-4 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-6 14:00</StartTime>
+          <EndTime>2010-05-6 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-7 8:00</StartTime>
+          <EndTime>2010-05-7 12:30</EndTime>
+        </TimeSpan>
+      </AvailableTimeSpanList>
+    </Teacher>
+    <Teacher id="3">
+      <Name>Brenz</Name>
+      <AvailableTimeSpanList>
+        <TimeSpan>
+          <StartTime>2010-05-3 14:00</StartTime>
+          <EndTime>2010-05-3 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-4 14:00</StartTime>
+          <EndTime>2010-05-4 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-6 14:00</StartTime>
+          <EndTime>2010-05-6 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-7 8:00</StartTime>
+          <EndTime>2010-05-7 12:30</EndTime>
+        </TimeSpan>
+      </AvailableTimeSpanList>
+    </Teacher>
+    <Teacher id="4">
+      <Name>Otto Riethmüller</Name>
+      <AvailableTimeSpanList>
+        <TimeSpan>
+          <StartTime>2010-05-7 8:00</StartTime>
+          <EndTime>2010-05-7 12:30</EndTime>
+        </TimeSpan>
+      </AvailableTimeSpanList>
+    </Teacher>
+    <Teacher id="5">
+      <Name>Elisabeth</Name>
+      <AvailableTimeSpanList>
+        <TimeSpan>
+          <StartTime>2010-05-3 14:00</StartTime>
+          <EndTime>2010-05-3 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-4 14:00</StartTime>
+          <EndTime>2010-05-4 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-6 14:00</StartTime>
+          <EndTime>2010-05-6 18:30</EndTime>
+        </TimeSpan>
+        <TimeSpan>
+          <StartTime>2010-05-7 8:00</StartTime>
+          <EndTime>2010-05-7 12:30</EndTime>
+        </TimeSpan>
+      </AvailableTimeSpanList>
+    </Teacher>
+  </TeacherList>
+  <CourseList>
+    <Course id="1">
+      <Name>Homiletik</Name>
+      <TeacherList>
+        <TeacherRef>1</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+    <Course id="2">
+      <Name>Seelsorge</Name>
+      <TeacherList>
+        <TeacherRef>2</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+    <Course id="3">
+      <Name>Religionspädagogik</Name>
+      <TeacherList>
+        <TeacherRef>1</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+    <Course id="4">
+      <Name>Liturgik/Hymnologie</Name>
+      <TeacherList>
+        <TeacherRef>3</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+    <Course id="5">
+      <Name>Diakonie/Gesellschaftsdiakonie</Name>
+      <TeacherList>
+        <TeacherRef>2</TeacherRef>
+        <TeacherRef>5</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+    <Course id="6">
+      <Name>Württembergische Kirchengeschichte</Name>
+      <TeacherList>
+        <TeacherRef>4</TeacherRef>
+      </TeacherList>
+      <DefaultExamLength>20</DefaultExamLength>
+      <PrepareTime>5</PrepareTime>
+    </Course>
+  </CourseList>
+  <StudentList>
+    <Student>
+      <Name>Babara Hahn-Jooß</Name>
+      <ExamList>        
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Michael Krimmer</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Dirk Kubischek</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Regina Lück</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Johannes Meisinger</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+
+    <Student>
+      <Name>Stefan Nitschke</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Katja Pfitzer</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+          <AdditionalInformation>
+            <ExamLength>25</ExamLength>
+            <Description>Altblockflöte</Description>
+          </AdditionalInformation>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Stefanie Siegel</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Tobias Gentsch</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Theresa Haenle</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            4
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Samuel Hartmann</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Markus Krimmer</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            4
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>6</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Kristin Merle</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>2</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>3</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+          <AdditionalInformation>
+            <ExamLength>25</ExamLength>
+            <Description>Klavier</Description>
+          </AdditionalInformation>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Cornelia Neumaier</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>1</CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+          <AdditionalInformation>
+            <ExamLength>25</ExamLength>
+            <Description>Klavier</Description>
+          </AdditionalInformation>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Sarah Reyer</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            3
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>4</CourseRef>
+          <AdditionalInformation>
+            <ExamLength>25</ExamLength>
+            <Description>Klavier</Description>
+          </AdditionalInformation>
+        </Exam>
+      </ExamList>
+    </Student>
+    <Student>
+      <Name>Heiko van der Lip</Name>
+      <ExamList>
+        <Exam>
+          <CourseRef>
+            1
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            2
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>
+            4
+          </CourseRef>
+        </Exam>
+        <Exam>
+          <CourseRef>5</CourseRef>
+        </Exam>
+      </ExamList>
+    </Student>
+  </StudentList>
+</ExamCalcTask>

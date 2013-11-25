@@ -1,0 +1,49 @@
+﻿
+
+return Student.Exams.Find(x => x.Course == Course);
+
+class Algorithm : IAlgorithm
+
+public string Name { get; set; }
+
+public string Description
+       {
+           get
+           {
+               if (AdditionalDescription == null)
+                   return Course.Name;
+               else
+                   return Course.Name + "[" + AdditionalDescription + "]";
+           }
+       }
+
+public int PrepareTime
+{
+      get { return CustomPrepareTime ?? Course.PrepareTime; }
+}
+
+public int? CustomExamLength;
+
+
+protected class CostCalc { 
+            public Func<int> Calc;
+            public double CostFactor;
+        }
+
+new CostCalc { Calc = CalcCosts_NumberOfUsedTimeSlots, CostFactor = 2 },
+
+
+public class GeneticSolutionBase<B>where B:GeneticSolutionBase<B>
+
+class TempSolution : PruefungsPlaner.Algorithm.Genetic.GeneticSolutionBase<TempSolution>
+
+public TempSolution(InputModel m) : base(m)
+
+override List<CostCalc> setUpCostCalc()
+
+
+
+// Design Pattern 'Prototype'
+class TimeSpanOrganization:ICloneable
+
+yield return s;
